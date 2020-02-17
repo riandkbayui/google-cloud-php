@@ -1,5 +1,76 @@
 # Changelog
 
+## 0.126.0
+
+<details><summary>google/cloud-bigquerydatatransfer 0.17.0</summary>
+
+
+
+### Features
+
+* update timeout and retry configuration ([#2693](https://www.github.com/googleapis/google-cloud-php/issues/2693)) ([7ec7e88](https://www.github.com/googleapis/google-cloud-php/commit/7ec7e888c219ec84f8b0f02e93a71ac9a1e3a08f))
+
+</details>
+
+<details><summary>google/cloud-bigtable 1.2.1</summary>
+
+
+
+### Documentation
+
+* update documentation ([#2694](https://www.github.com/googleapis/google-cloud-php/issues/2694)) ([7062ba9](https://www.github.com/googleapis/google-cloud-php/commit/7062ba96fcdb224740fd9defc2f64cc94a1e1e7a))
+
+</details>
+
+<details><summary>google/cloud-dataproc 0.18.0</summary>
+
+
+
+### Features
+
+* add autoscaling policy client for v1 API ([#2662](https://www.github.com/googleapis/google-cloud-php/issues/2662)) ([b0411aa](https://www.github.com/googleapis/google-cloud-php/commit/b0411aaa5d434267fe2e86baf055ba8a38b4d363))
+
+</details>
+
+<details><summary>google/cloud-dialogflow 0.13.0</summary>
+
+
+
+### ⚠ BREAKING CHANGES
+
+* move $languageCode to optional args (#2691)
+
+### Features
+
+* move $languageCode to optional args ([#2691](https://www.github.com/googleapis/google-cloud-php/issues/2691)) ([13983d5](https://www.github.com/googleapis/google-cloud-php/commit/13983d570bb22ab677357539c0beadf17d160bcf))
+
+</details>
+
+<details><summary>google/cloud-monitoring 0.20.1</summary>
+
+
+
+### Documentation
+
+* update documentation ([#2702](https://www.github.com/googleapis/google-cloud-php/issues/2702)) ([b367012](https://www.github.com/googleapis/google-cloud-php/commit/b367012b9af21c3d71e47f1428824b6ae0716773))
+
+
+### Miscellaneous Chores
+
+* update metadata ([#2700](https://www.github.com/googleapis/google-cloud-php/issues/2700)) ([6a5c496](https://www.github.com/googleapis/google-cloud-php/commit/6a5c496124ff5f2bac2f806dd5303065dde14592))
+
+</details>
+
+<details><summary>google/cloud-redis 0.12.1</summary>
+
+
+
+### Documentation
+
+* update documentation ([#2695](https://www.github.com/googleapis/google-cloud-php/issues/2695)) ([675ec72](https://www.github.com/googleapis/google-cloud-php/commit/675ec72c89f53fd3cffaff0ffb909f8719e0e0d7))
+
+</details>
+
 ## 0.125.0
 
 <details><summary>google/cloud-asset 0.6.0</summary>
